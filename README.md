@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmet Naci Sahin</h1>
 <h3 align="center">FrontEnd, BackEnd, Android Developer</h3>
 
-- 🌱 I’m currently learning **React.js**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ahmet naci sahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmet naci sahin" height="30" width="40" /></a>
